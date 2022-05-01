@@ -4,12 +4,11 @@
 - [Scalable-GNNs](#Scalable-GNN)
   - [1.Linear Model](#Linear-Model)
   - [2.Sampling](#Sampling)
-  - [3.Distributed Training](#Distributed-Training)
 
 
 <a name="Scalable-GNN" />
 
-To scale GNNs to extremely large graphs, existing works can be classified into the following types.
+To scale GNNs to extremely large graphs, existing works can be classified into the following two types.
 
 <a name="Linear-Model" />
 
@@ -48,10 +47,3 @@ To scale GNNs to extremely large graphs, existing works can be classified into t
 2. **GraphSAINT: Graph Sampling Based Inductive Learning Method** [ICLR 2020] [[paper]](https://arxiv.org/abs/1907.04931) [[code]](https://github.com/GraphSAINT/GraphSAINT)
 3. **Large-Scale Learnable Graph Convolutional Networks** [KDD 2018] [[paper]](https://dl.acm.org/doi/abs/10.1145/3219819.3219947) [[code]](https://github.com/divelab/lgcn)
 
-<a name="Distributed-Training" />
-
-## 3.Distributed Training
-
-1. **DistGNN: Scalable Distributed Training for Large-Scale Graph Neural Networks** [Arxiv 2021] [[paper]](https://arxiv.org/abs/2104.06700) 
-2. **Towards Efficient Large-Scale Graph Neural Network Computing** [Arxiv 2018] [[paper]](https://arxiv.org/abs/1810.08403)
-3. **Sequential Aggregation and Rematerialization: Distributed Full-batch Training of Graph Neural Networks on Large Graphs** [Arxiv 2021] [[paper]](https://arxiv.org/abs/2111.06483) [[code]](https://github.com/IntelLabs/SAR)
