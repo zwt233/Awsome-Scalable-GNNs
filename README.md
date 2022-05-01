@@ -1,7 +1,7 @@
 # Awsome-Scalable-GNNs
 
 ## Contents
-- [Scalable-GNN](#Scalable-GNN)
+- [Scalable-GNNs](#Scalable-GNN)
   - [1.Linear Model](#Linear-Model)
   - [2.Sampling](#Sampling)
   - [3.Distributed Training](#Distributed-Training)
@@ -9,7 +9,7 @@
 
 <a name="Scalable-GNN" />
 
-Existing scalable GNNs can be classified into the following types.
+To scale GNNs to extremely large graphs, existing works can be classified into the following types.
 
 <a name="Linear-Model" />
 
