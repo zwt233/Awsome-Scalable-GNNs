@@ -9,7 +9,7 @@
 
 <a name="Scalable-GNN" />
 
-# Scalable-GNN
+Existing scalable GNNs can be classified into the following two types: linear model-based GNNs and sampling-based GNNs.
 
 <a name="Linear-Model" />
 
