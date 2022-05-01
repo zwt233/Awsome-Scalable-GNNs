@@ -2,18 +2,18 @@
 
 ## Contents
 - [Scalable-GNN](#Scalable-GNN)
-  - [Linear Model](#Linear-Model)
-  - [Sampling](#Sampling)
-  - [Distributed Training](#Distributed-Training)
+  - [1.Linear Model](#Linear-Model)
+  - [2.Sampling](#Sampling)
+  - [3.Distributed Training](#Distributed-Training)
 
 
 <a name="Scalable-GNN" />
 
-Existing scalable GNNs can be classified into the following two types: linear model-based GNNs and sampling-based GNNs.
+Existing scalable GNNs can be classified into the following types.
 
 <a name="Linear-Model" />
 
-## Linear Model
+## 1.Linear Model
 
 1. **Simplifying Graph Convolutional Networks** [ICML 2019] [[paper]](https://arxiv.org/abs/1902.07153) [[code]](https://github.com/Tiiiger/SGC)
 2. **Scalable Graph Neural Networks via Bidirectional Propagation** [NeurIPS 2020] [[paper]](https://arxiv.org/abs/2010.15421) [[code]](https://github.com/chennnM/GBP)
@@ -26,7 +26,7 @@ Existing scalable GNNs can be classified into the following two types: linear mo
 
 <a name="Sampling" />
 
-## Sampling
+## 2.Sampling
 
 ### Node-wise sampling
 
@@ -50,7 +50,7 @@ Existing scalable GNNs can be classified into the following two types: linear mo
 
 <a name="Distributed-Training" />
 
-## Distributed Training
+## 3.Distributed Training
 
 1. **DistGNN: Scalable Distributed Training for Large-Scale Graph Neural Networks** [Arxiv 2021] [[paper]](https://arxiv.org/abs/2104.06700) 
 2. **Towards Efficient Large-Scale Graph Neural Network Computing** [Arxiv 2018] [[paper]](https://arxiv.org/abs/1810.08403)
